@@ -1,0 +1,14 @@
+{
+    "name": "tayyabhussain/submit",
+    "description": "laravel package to submit feedbacks to ekomi",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tayyabhussain",
+            "email": "tayyab.hussain@coeus-solutions.de"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
